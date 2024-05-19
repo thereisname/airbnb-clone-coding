@@ -1,6 +1,6 @@
-import './App.css'
-import star from './assets/star.svg'
-import heart from './assets/heart.svg'
+import '../App.css'
+import star from '../assets/star.svg'
+import heart from '../assets/heart.svg'
 
 const CardsComponent = ({ data }) => {
   return (
